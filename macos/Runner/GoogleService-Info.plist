@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>359838751950-omo24082t1b80agfe2g6r1ehbg0gc163.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.359838751950-omo24082t1b80agfe2g6r1ehbg0gc163</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNO4Yighs3D9-sKyUrr-3CKAJWjPVa2rU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>359838751950</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterFirebaseRealtime.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>cw-enerji-65a95</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cw-enerji-65a95.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:359838751950:ios:cba016692cae31809b449f</string>
+	<key>DATABASE_URL</key>
+	<string>https://cw-enerji-65a95-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
